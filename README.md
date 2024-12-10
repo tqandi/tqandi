@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taraneh (@tqandi)
 - 👀 I’m interested in machine vision, assistive technologies, interactive graphics, character animation, AR/VR, UI/UX design, digital (and traditional) art and classical Persian music.
 - 🌱 I’m currently working on image captioning methods for the visually impaired.
-- 📫 How to reach me: ghandi.taraneh@mail.um.ac.ir
+- 📫 How to reach me: ghandit@mcmaster.ca
 - 💞️ Checkout my personal webpage too! https://tqandi.github.io/
 
 <!---
